@@ -1,0 +1,6 @@
+:root {
+    --accent: rgb(138, 43, 226); /* Vibrant Purple */
+    --accent-hover: rgba(138, 43, 226, 0.977); /* Hover state with slight transparency */
+    --accent-selected: rgba(138, 43, 226, 0.612); /* Selected state with more transparency */
+    --accent-focused: rgba(138, 43, 226, 0.200); /* Focused state with subtle transparency */
+}
